@@ -6,10 +6,10 @@ Using Firebase for user authentication and database.
 
 In this app you can save links to your favorite recipes.
 ### Functionalities:
--add recipe (link, name, source, image, categories) 
--remove recipe
--mark recipe as favorite
--search recipes by name
--filter recipes by categories
--show only favorite recipes
--open link in browser
+- add recipe (link, name, source, image, categories)   
+- remove recipe  
+- mark recipe as favorite  
+- search recipes by name  
+- filter recipes by categories  
+- show only favorite recipes  
+- open link in browser  
