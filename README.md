@@ -1,4 +1,4 @@
-# Recipes-mobile
+# Recipes (Android)
 
 ![recipe mockup](https://github.com/hennatee/Recipes-mobile/blob/main/Recipe_mockups.png?raw=true)
 
